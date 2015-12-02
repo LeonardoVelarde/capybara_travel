@@ -70,7 +70,7 @@ Then(/^my user name is "([^"]*)"$/) do |userName|
 end
 
 When(/^i press the "([^"]*)" button$/) do |sing_in|
-	find(:xpath, '//input[@name="login"]').click
+	find(:xpath, '//input[@name="' + sing_in + '"]').click
 end
 
 Then(/^the Flight Finder screen is show$/) do

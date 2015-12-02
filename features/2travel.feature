@@ -24,7 +24,7 @@ Scenario: Register a user on site
 
 Scenario: Find a flight with a register suer
     And i enter my username and password
-    When i press the "Sign-In" button
+    When i press the "login" button
     Then the Flight Finder screen is show
 
 Scenario: Log in from sing in base
