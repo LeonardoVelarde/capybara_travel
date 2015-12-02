@@ -18,27 +18,27 @@ Feature: Mercury Tours verify flight booker
     And i press the "findFlights" button
     Then i book a flight page is shown
 
-#    Scenario: Select flights to book
-#      When i select a flight
-#      | Airline      | Pangea Airlines |
-#      | FlightNumber |       632       |
-#      | price        |       282       |
-#      | departure    |      16:37      |
-#      And i select a flight
-#      | Airline      | Pangea Airlines |
-#      | FlightNumber |       362       |
-#      | price        |       274       |
-#      | departure    |      9:17       |
-#      And i press the "reserveFlights" button
-#      Then i book a flight page is shown
-#      And the selected flight is show
-#      | Airline      | Pangea Airlines |
-#      | FlightNumber |       632       |
-#      | price        |       282       |
-#      And the selected flight is show
-#      | Airline      | Pangea Airlines |
-#      | FlightNumber |       362       |
-#      | price        |       274       |
+    Scenario: Select flights to book
+      When i select a flight
+      | Airline      | Pangea Airlines |
+      | FlightNumber |       632       |
+      | price        |       282       |
+      | departure    |      16:37      |
+      And i select a flight
+      | Airline      | Pangea Airlines |
+      | FlightNumber |       362       |
+      | price        |       274       |
+      | departure    |      9:17       |
+      And i press the "reserveFlights" button
+      Then i book a flight page is shown
+      And the selected flight is show
+      | Airline      | Pangea Airlines |
+      | FlightNumber |       632       |
+      | price        |       282       |
+      And the selected flight is show
+      | Airline      | Pangea Airlines |
+      | FlightNumber |       362       |
+      | price        |       274       |
 
     Scenario: Book a flight
       When i select a flight

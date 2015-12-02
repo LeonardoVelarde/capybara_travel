@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adb4d928-70f4-492b-b07a-bb69a72e30df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/3travel.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/step_definitions/3travelSteps.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/4travel.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/step_definitions/4travelSteps.rb" />
-      <change type="DELETED" beforePath="C:\Users\Eduardo Velarde\Documents\Materias\Ingenieria de Calidad\Automation\CapybaraSamples\screenshot_2015-11-25-19-54-05.805.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Eduardo Velarde\Documents\Materias\Ingenieria de Calidad\Automation\CapybaraSamples\screenshot_2015-11-25-19-54-05.805.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/2travel.feature" afterPath="$PROJECT_DIR$/features/2travel.feature" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/step_definitions/2travelSteps.rb" afterPath="$PROJECT_DIR$/features/step_definitions/2travelSteps.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/support/env.rb" afterPath="$PROJECT_DIR$/features/support/env.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/support/hooks.rb" afterPath="$PROJECT_DIR$/features/support/hooks.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/0google.feature" afterPath="$PROJECT_DIR$/features/0google.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/step_definitions/0googleSteps.rb" afterPath="$PROJECT_DIR$/features/step_definitions/0googleSteps.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/1guru99.feature" afterPath="$PROJECT_DIR$/features/1guru99.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/step_definitions/1guru99Steps.rb" afterPath="$PROJECT_DIR$/features/step_definitions/1guru99Steps.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/4travel.feature" afterPath="$PROJECT_DIR$/features/4travel.feature" />
     </list>
     <ignored path="CapybaraSamples.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,6 +38,46 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="0googleSteps.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/0googleSteps.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1guru99Steps.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/1guru99Steps.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0google.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/0google.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="23" selection-start-line="0" selection-start-column="1" selection-end-line="5" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1guru99.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/1guru99.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="0" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="2travel.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/2travel.feature">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,20 +98,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4travel.feature" pinned="false" current-in-tab="false">
+      <file leaf-file-name="4travel.feature" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/4travel.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="36" />
+            <state vertical-scroll-proportion="-0.48156425">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4travelSteps.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4travelSteps.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/4travelSteps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35418993">
+            <state vertical-scroll-proportion="0.0">
               <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
               <folding />
             </state>
@@ -111,8 +143,12 @@
         <option value="$PROJECT_DIR$/features/support/env.rb" />
         <option value="$PROJECT_DIR$/features/step_definitions/3travelSteps.rb" />
         <option value="$PROJECT_DIR$/features/3travel.feature" />
-        <option value="$PROJECT_DIR$/features/4travel.feature" />
         <option value="$PROJECT_DIR$/features/step_definitions/4travelSteps.rb" />
+        <option value="$PROJECT_DIR$/features/4travel.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/0googleSteps.rb" />
+        <option value="$PROJECT_DIR$/features/step_definitions/1guru99Steps.rb" />
+        <option value="$PROJECT_DIR$/features/0google.feature" />
+        <option value="$PROJECT_DIR$/features/1guru99.feature" />
       </list>
     </option>
   </component>
@@ -432,10 +468,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/4travelSteps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/3travelSteps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/features/step_definitions/2travelSteps.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/0googleSteps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/1guru99Steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/0google.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="23" selection-start-line="0" selection-start-column="1" selection-end-line="5" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/1guru99.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="0" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -456,26 +540,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/3travelSteps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/features/4travel.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/4travelSteps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35418993">
-          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        <state vertical-scroll-proportion="-0.48156425">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
           <folding />
         </state>
       </provider>
