@@ -53,28 +53,28 @@ Feature: Mercury Tours verify flight booker
         | departure    |      9:17       |
       And i press the "reserveFlights" button
       When form for both passengers is filled
-      | passFirst0 | Juan |
-      | passFirst1 | Juana |
-      | passLast0 | ILoveQA |
-      | passLast1 | ILoveQA |
-      | pass.0.meal | Kosher |
-      | pass.1.meal | Hindu |
-      | creditCard | Visa |
-      | cc_frst_name | Juan |
-      | cc_mid_name | Marcos |
-      | cc_last_name | ILoveQA |
-      | creditnumber | 123456789 |
-      | cc_exp_dt_mn | 05 |
-      | cc_exp_dt_yr | 2010 |
-      | billAddress1 | Av.America 615 |
-      | billCity | Cochabamba |
-      | billState | CO |
-      | billZip | 12345 |
-      | billCountry | BOLIVIA |
-      | delAddress1 | Av.America 615 |
-      | delCity | Cochabamba |
-      | delState | CO |
-      | delZip | 12345 |
-      | delCountry | BOLIVIA |
+        | First Passenger Name               | Juan           |
+        | Second Passenger Name              | Juana          |
+        | First Passenger Last Name          | ILoveQA        |
+        | Second Passenger Last Name         | ILoveQA        |
+        | First Passenger Meal               | Kosher         |
+        | Second Passenger Meal              | Hindu          |
+        | Credit Card                        | Visa           |
+        | Credit Card Owner First Name       | Juan           |
+        | Credit Card Owner Middle Name      | Marcos         |
+        | Credit Card Owner Last Name        | ILoveQA        |
+        | Credit Card Number                 | 123456789      |
+        | Credit Card expiration date month  | 05             |
+        | Credit Card expiration date year   | 2010           |
+        | Billing Address                    | Av.America 615 |
+        | Billing City                       | Cochabamba     |
+        | Billing State                      | CO             |
+        | Billing Zip Code                   | 12345          |
+        | Billing Country                    | BOLIVIA        |
+        | Delivery Address                   | Av.America 615 |
+        | Delivery City                      | Cochabamba     |
+        | Delivery State                     | CO             |
+        | Delivery Zip Code                  | 12345          |
+        | Delivery Country                   | BOLIVIA        |
       And i press the "buyFlights" button
       Then confirmation for booked flight should be shown
